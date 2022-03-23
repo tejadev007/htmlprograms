@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+		<title>JavaScript3</title>
+</head>
+<body>
+	<label>password</label>
+		<input id="thy" type="password"></input>
+
+		<br></br>
+
+		<input type="button" value="show" onclick="showPassword()"></input>
+		<input type="button" value="hide" onclick="hidePassword()"></input>
+
+		<br></br>
+
+		<input type="button" value="show/hide" onclick="showAndHide()"></input>
+</body>
+</html>

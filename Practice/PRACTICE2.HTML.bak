@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <link rel="icon" href="favicon.ico"></link>
+  <title>practice2</title>
+ </head>
+ <body>
+ <div style="height:100px;
+			width:1265px;
+			background-color:brown">
+	<img src="practice2.png" height="100px" width="100px"></img>
+	<a href="Irgateway.html" target="blank"><strong><big>Welcome to IR gate Way</big></strong></a>
+	</div>
+
+<center><div style="height:500px;
+                    width:700px;
+					background-color:grey;
+					float:left" >
+					<form>
+					<fieldset style="height:400px;
+										width:600px">
+										
+										<br></br>
+										<input style="height:40px;width:250px"placeholder="Username / Phonenumber"></input>
+										<br></br>
+										<input type="password" style="height:40px;width:250px" placeholder="Password"></input>
+										<br></br>
+										<a href="forgetpassword.html" target="blank"><a>
+										<br></br>
+										<input type="submit" value="LogIn"></input>
+
+										</fieldset>
+
+										
+					</form></div></center>
+ </body>
+</html>

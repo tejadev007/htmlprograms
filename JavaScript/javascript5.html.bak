@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>JavaScript-5/title>
+	<link rel="stylesheet" href="javascript5.css"></link>
+		<script src="javascript5.js"></script>
+ </head>
+ <body onclick="clicking()">
+ <div id="div1">
+ <center>
+ <fieldset id="fieldset1">
+ <table id="table1">
+ <tr>
+	<td><label>Name :</label></td>
+		<td><input id="input1" onclick="showName()" onkeyup="showName()"></input></td>
+ </tr>
+ <tr>
+	<td><label>Phone Number :</label></td>
+		<td><input id="input2" value="" onclick="showName()" onfocus="showName()" onkeyup="showName()"></input></td>
+ </tr>
+ <tr>
+	<td><label>Password :</label></td>
+		<td><input type="password" onclick="showName()" id="input3" onkeyup="showName()"></input></td>
+ </tr>
+ </table>
+ </fieldset>
+</center>
+ </div>
+ <div id="div2">
+ <fieldset id="fieldset2">
+ <table id="table2">
+	<tr>
+	<td><label id="name1">Given Name :</label></td>
+		<td><strong id="result1"></strong></td>
+	</tr>
+	<tr>
+	<td><label id="name2">Given Phone Number :<label></td>
+		<td><strong id="result2"></strong></td>
+	</tr>
+	<tr>
+	<td><label id="name3">Given Password :</label></td>
+		<td><strong id="result3"></strong><td>
+	</tr>
+</table>
+</fieldset>
+ </div>
+ </body>
+</html>

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>TeJa Kuchipudi</title>
+ </head>
+ <body>
+ <form>
+ <table>
+ <tr>
+ <td><label>Vehicle Number</label></td>
+ <td><input pattern="[A-Z]{2}[0-9]{2}[A-Z]{2}[0-9]{4}" title="Must be in a format of AA12AA1234"></input><td>
+ </tr>
+<tr>
+<td><label>Card Number</label></td>
+<td><input pattern="[0-9]{16}"></input></td>
+</tr>
+<tr>
+<td><label>Phone Number +91</label></td>
+<td><input pattern="[6-9]{1}[0-9]{9}" title=
+"Enter in the format of 9XXXXXXXXX5"></input>
+</tr>
+<tr>
+<td><label>DOB</label></td>
+<td><input type="date"></input></td>
+</tr>
+<tr>
+<td><label>CVV</label></td>
+<td><input pattern="[0-9]{3}" title="should only have 3 digits"></input></td>
+</tr>
+<tr>
+<td><label>Expiry Date</label></td>
+<td><input pattern="[0-1]{1}[0-9]{1}[/]{1}[2]{1}[0]{1}[0-9]{2}" title=
+"Should be in a format of mm/yyyy"></input></td>
+</tr>
+<tr><td><Label>Name on the Card</label></td>
+<td><input pattern="[A-Z]{20}"></input></td>
+</tr>
+<tr>
+<td><label>Gender</label></td>
+<td><input type="radio" name="teja">Male</input></td>
+<td><input type="radio" name="teja">Female</input></td>
+</tr>
+
+
+
+
+
+
+<tr>
+ <td><input type="submit" value="Submit"></input></td>
+ </tr>
+ </table>
+ </form>
+
+<br></br>
+<br></br>
+
+ <form>
+<table>
+<tr>
+
+<td><label>Employee Name</label></td>
+<td><input pattern="[A-Z]{20}" placeholder="Enter your Name"></input></td>
+</tr>
+<tr>
+<td><label>Employee Location</label></td>
+<td><textarea placeholder="Address"></textarea></td>
+</tr>
+<tr>
+<td><label>Alternate Email</label></td>
+<td><input pattern="[A-Z]{4,20}[@]{1}[A-Z]{4,5}[.]{1}[A-Z]{2,3}" placeholder="abcd@gmail.com"></input></td>
+</tr>
+<tr>
+<td><label>Mobile Number</label></td>
+<td><input pattern="[6-9]{1}[0-9]{9}" placeholder="9XXXXXXXX7"></input></td>
+</tr>
+<tr>
+<td><label>Location of visit</label></td>
+<td><input type="radio" name="radio">Coimbatore</input></td>
+<td><input type="radio" name="radio">Pune</input></td>
+<td><input type="radio" name="radio">Chennai</input></td>
+</tr>
+<tr>
+<td><label>Date of Travel</label></td>
+<td><input type="date"></input></td>
+</tr>
+<tr>
+<td><label>Mode of travel</label></td>
+<td><input list="teja"></input></td>
+<datalist id="teja">
+<option>Bus</option>
+<option>Train</option>
+<option>Boat</option>
+<option>Flight</option>
+<option>bike</option>
+</select>
+</tr>
+
+<td><label>Present State</label></td>
+
+<td><select >
+<option>Ap</option>
+<option>TS</option>
+<option>Chennai</option>
+<option>Bnglr</option>
+<option>Mumbai</option>
+</select></td>
+</tr>
+
+
+<tr>
+<td><input type="submit" value="Submit"></input></td>
+</tr>
+</table>
+ </form>
+ </body>
+</html>

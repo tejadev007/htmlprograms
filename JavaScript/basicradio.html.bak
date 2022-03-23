@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<script src="radiojavascript.js"></script>
+	<title>Basic Radio Buttons</title>
+ </head>
+ <body>
+	<label>Gender<sup style="color: red;padding-left: 5px;padding-right: 5px">*</sup>:</label>
+		<input id="radio1" type="radio" name="gender">Male</input>
+		<input id="radio2" type="radio" name="gender">Female</input>
+		<small><em style="color: red" id="err"></em><small>
+		<br></br>
+		<input type="submit" value="Click" onclick="basicRadioButtons()"></input>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href=AddBook.css></link>
+  <title>Update Book Details</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+ </head>
+ <body>
+  <div id="libNav">
+	<ul id="mainMenu">
+		<li id="icon"><a href="LibraryManagementSystem.html"><i class="fa fa-book fa-3x" aria-hidden="true"></i></a></li>
+		<li class="li-tag"><a href="AddBook.html">Add Book</a></li>
+		<li class="li-tag"><a href="SearchBookByTitle.html">Search Book</a></li>
+		<li class="li-tag">Update Book</li>
+		<li class="li-tag"><a href="RemoveBookDetails.html" >Remove Book</a></li>
+	</ul>
+  </div>
+  <div class="div">
+  <h1 id="heading4"><ins>Update Book Details</ins></h1>
+  <div id="div4">
+  <table>
+  <tr>
+	<td><label>Book Title</label></td>
+	<td><input class="input4"></input></td>
+  </tr>
+  <tr>
+	<td><label>New Edition</label></td>
+	<td><input class="input4"></input></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td><center><input id="submit4" type="submit"></input></center></td>
+  </tr>
+  </table>
+  </div>
+  </div>
+ </body>
+</html>

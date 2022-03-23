@@ -1,0 +1,72 @@
+#div1 {height:400px;
+	   width:300px;
+	   box-shadow:0px 0px 40px grey;
+	   background-size:300px 400px;
+	   border-radius:10px}
+
+#div2 {display:flex;
+       margin-left:45px;
+	   margin-top:40px}
+
+#div3 {display:flex;
+       margin-left:45px;
+	   margin-top:35px}
+
+#input1 {height:30px;
+		 width:182px;
+		 border:2px solid;
+		 border-left:0px;
+		 outline:0px;
+		 background-color:gainsboro;
+		 text-align:center;
+		 font-weight:bold}
+
+#input2 {height:30px;
+         width:160px;
+		 border:2px solid;
+		 border-left:0px;
+		 border-right:0px;
+		 outline:0px;
+		 background-color:gainsboro;
+		 text-align:center;
+		 font-weight:bold}
+
+#input3 {height:30px;
+         width:70px;
+		 background-color:cyan;
+		 border-radius:7px;
+		 text-align:center;
+		 margin-top:30px;
+		 background-color:lightskyblue;
+		 font-weight:bold;
+		 border:0px;
+		 outline:0px}
+
+#i1 {border:2px solid;
+     border-right:0px;
+	 padding-left:5px;
+	 padding-top:9px;
+	 padding-right:5px;
+	 background-color:gainsboro}
+
+#i2 {border:2px solid;
+     border-right:0px;
+	 padding-top:9px;
+	 padding-right:5px;
+	 padding-left:5px;
+	 background-color:gainsboro}
+
+#i3 {border:2px solid;
+     border-left:0px;
+	  padding-top:9px;
+	 padding-right:5px;
+	 padding-left:5px;
+	 background-color:gainsboro}
+
+#center {margin-top:100px}
+
+small {color:grey}
+
+img {height:30px;
+     width:70px;
+	 border-radius:5px}

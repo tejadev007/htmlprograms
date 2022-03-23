@@ -1,0 +1,63 @@
+document.write("<h1>"+"Mani Durga Teja Kuchipudi"+"</h1>")
+
+document.write("<h1>"+"S/o Srinivasrao"+"</h1>")
+
+document.write("<h1>"+"Chinnayagudem-534316"+"</h1>")
+
+document.write("<h1>"+"Devarapalli mandal"+"</h1>")
+
+document.write("<h1>"+"West Godavari, Andhra Pradesh"+"</h1>")
+
+document.write("<h2>"+"Roy Rayapureddy"+"</h2>")
+
+document.write("<h3>"+"Shivaji Shinde"+"</h3>")
+
+document.write("<h4>"+"Ravi Raju"+"</h4>")
+
+document.write("<h5>"+"Shiva"+"</h5>")
+
+document.write("<h6>"+"Shahawaz"+"</h6>")
+
+
+
+function add()
+{
+	var num1 = 20
+	var num2 =30
+
+	var sum = num1 + num2
+
+    document.write("Addition of "+num1+" and "+num2+" is "+sum+"<br></br>")
+}
+add()
+
+function sub()
+{
+	var num1 = 90
+	var num2 = 40
+	var sub = num1 - num2
+	
+	document.write("Subtraction of "+num1+" and "+num2+" is "+sub+ "<br></br>")
+}
+sub()
+
+function mul()
+{
+	var num1 = 30
+		var num2 = 40
+		var mul = num1 * num2 
+
+		document.write("Multiplication of "+ num1+" and "+num2+" is "+mul+ "<br></br>")
+}
+		mul()
+
+function div()
+{
+	var num1 = 40
+		var num2 = 400
+		var div = num1 / num2
+
+		document.write("Division of "+num1+" and "+num2+" is "+div+"<br></br>")
+
+}
+	div()

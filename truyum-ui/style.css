@@ -1,0 +1,229 @@
+#div-tag-1 {background-color: royalblue;
+            height: 100px;
+	        width: 1270px;
+			float: left
+			}
+
+#div-tag-2 {height: 425px;
+			width: 1270px;
+			float: left;
+			background-image: url(pexels-cats-coming-3654599.jpg);
+			background-size: 1270px 425px}
+
+#div-tag-3 {background-color: grey;
+			height: 80px;
+			width: 1270px;
+			float: left}
+
+#big-1 {color: white;
+        font-size: 40px;
+        padding-top: 30px;
+	    padding-left: 40px}
+
+#icon-tag-1 {color: white;
+             padding-top: 30px;
+             padding-left: 35px}
+
+#anchor-tag-1 {float: right;
+               color: white;
+			   padding-top: 45px;
+			   padding-right: 50px;
+			   font-size: 20px}
+
+#h4-tag-1 {text-align: center;
+           padding-top: 10px}
+
+#h1-tag-1 {padding-top: 30px;
+		   padding-left: 100px}
+
+#table-1 {margin-left: 100px;
+		  margin-top:30px}
+
+#tr-tag-1 {font-weight: bold}
+
+#td-tag-1 {padding-right: 200px;
+           padding-bottom: 20px;
+		   text-align: left;
+		   font-size: 20px}
+
+#td-tag-3 {padding-right: 30px;
+           padding-bottom: 20px;
+           padding-left: 30px;
+		   font-size: 20px}
+
+.td-tag-4 {text-align: right;
+		   padding-bottom: 10px}
+
+.td-tag-2 {padding-right: 30px;
+           padding-bottom:20px;
+           padding-left: 30px;
+		   font-size: 20px}
+
+.td-tag-5 {text-align: center;
+		   padding-bottom: 10px;
+		   font-size: 20px}
+
+
+
+#anchor-tag-3 {float: right;
+			   padding-top: 45px;
+			   padding-right: 50px;
+			   font-size: 20px;
+			   color: white}
+
+#anchor-tag-2 {float: right;
+			  padding-top: 30px;
+			  padding-right: 50px;
+			  font-size: 20px;
+			  color: white}
+
+#td-tag-4 {padding-right: 250px;
+           padding-bottom: 10px;
+		   text-align: left;
+		   font-weight: bold;
+		   font-size: 20px}
+
+#td-tag-6 {padding-right: 300px;
+		   padding-bottom: 20px;
+		   font-weight: bold;
+		   font-size: 20px;
+		   color: black}
+
+.td-tag-7 {padding-right: 40px;
+		   padding-bottom: 20px;
+		   padding-left: 40px;
+		   font-weight: bold;
+		   font-size: 20px}
+
+#td-tag-8 {padding-right: 40px;
+		   padding-bottom: 20px;
+		   padding-left: 40px;
+		   font-size: 20px}
+
+.td-tag-9 {text-align: center;
+		   padding-bottom: 10px;
+		   font-size: 20px}
+
+.td-tag-10 {text-align: right;
+			padding-bottom: 10px;
+		    font-size: 20px}
+
+.td-tag-11 {padding-bottom: 10px;
+		    font-size: 20px}
+
+#h1-tag-2 {padding-top: 35px;
+		   padding-left: 170px}
+
+#table-2 {margin-left: 170px;
+		  margin-top: 30px}
+
+#h1-tag-3 {padding-top: 20px;
+		   padding-left: 100px}
+
+
+.table-3 {padding-left: 100px}
+
+#label-tag-1 {font-weight: bold;
+			  font-size: 20px}
+
+#field-name {height: 30px;
+			  width: 1015px}
+
+#label-tag-2 {font-weight: bold}
+
+#td-tag-12 {padding-top: 20px}
+
+#field-price {height: 30px;
+			  width: 150px;
+			  text-align: right}
+
+#h4-tag-2 {color: green;
+		   padding-top: 30px;
+		   padding-left: 100px;
+		   font-size:20px}
+
+#h4-tag-3 {color: green;
+		   padding-top: 5px;
+		   text-align: center;
+		   font-weight: bold;
+		   font-size: 20px}
+
+.td-tag-13 {padding-bottom: 10px;
+			padding-left: 50px;
+			font-size: 20px;
+			color: white}
+
+.td-tag-14 {font-weight: bold;
+		    padding-left: 40px}
+
+
+.td-tag-15 {font-weight: bold;
+			text-align: right}
+
+#big-2 {padding-left: 610px;
+		font-weight: bold}
+
+#big-3 {padding-left: 105px;
+		font-weight: bold}
+
+#td-tag-16 {font-weight: bold;
+			padding-top: 20px;
+			padding-left: 100px}
+
+#td-tag-17 {font-weight: bold;
+			padding-top: 20px;
+			padding-left: 200px}
+
+#td-tag-17 {font-weight: bold;
+			padding-top: 20px;
+			padding-left: 200px}
+
+#td-tag-18 {font-weight: bold;
+			padding-top: 20px;
+			padding-left: 50px}
+
+#td-tag-19 {padding-left: 95px}
+
+#td-tag-20 {padding-left: 200px}
+
+#td-tag-21 {padding-left: 50px}
+
+#field-radio {font-weight: bold;
+			  padding-left: 100px}
+
+#field-date-of-launch {height: 30px;
+					   width: 200px}
+
+#field-category {height: 30px;
+				 width: 200px}
+
+
+#td-tag-22 {margin-top: 30px}
+
+#checkbox {height: 20px;
+			width: 20px;
+			margin-top: 30px;
+			padding-top: 10px;
+		    font-weight: bold}
+
+#sumbit-save {height: 40px;
+			  width: 150px;
+			  background-color: royalblue;
+			  color: white;
+			  font-weight: bold;
+			  border:0px}
+
+#td-tag-23 {padding-top: 30px}
+
+.field-radio {height:20px;
+			  width: 20px;
+			  font-size : 20px}
+
+#label-tag-2 {font-size: 20px}
+
+#label-tag-3 {font-size: 20px}
+
+#label-tag-4 {font-size: 20px}
+
+#label-tag-5 {font-size: 20px}
+

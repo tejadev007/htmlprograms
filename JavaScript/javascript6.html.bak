@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Accor Sign In</title>
+	<link rel="stylesheet" href="javascript6.css"></link>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+			<script src="javascript6.js"></script>
+ </head>
+ <body>
+ <div id="whole-div">
+ <h3>With your email address</h3>
+ <div>
+	<label id="label_1">Your email</label>
+		<h6 id="head_6">(example@example.com)</h6>
+ </div>
+ <div class="div2"><input id="input1" onblur="decor()" onfocus="decor2()"></input>
+	<i id="icon1" class=""></i>
+ </div>
+ <div>
+	<h5 id="h5_1"></h5>
+ </div>
+	<label id="label2">Password</label>
+		<div class="div2">
+			<input onblur="decor3()" onfocus="decor4()" type="password" id="input2"></input>
+				<i id="icon2" class=""></i>
+					<i id="icon3" class="fa fa-eye fa-2x" onclick="passwordEye()"></i>
+		</div>
+		<div>
+			<h5 id="heading"></h5>
+		</div>
+			<input id="input3" type="checkbox"><small>Remember me</small></input>
+		<br></br>
+			<input id="input4" type="Submit" value="LOG IN"></input>
+ </div>
+ </body>
+</html>

@@ -1,0 +1,19 @@
+#id {border:2px solid;
+   width: 15px;
+   padding-right: 2px;
+   padding-bottom: 0px;
+   padding-top: 3px;
+   border-left: 2px;
+   margin-right: 10px}
+
+input {height: 20px;
+	   border: 2px solid;
+	   border-right: 0px;
+	   outline: 0px;
+	   margin-left: 8px}
+
+strong {padding-top:3px}
+
+div {display: flex}
+
+label {padding-top: 3px}

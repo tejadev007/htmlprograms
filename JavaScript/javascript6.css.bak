@@ -1,0 +1,58 @@
+h6 {margin-top:0px;
+	margin-bottom:0px}
+
+#input1 {height: 37px;
+	   width: 419px;
+	   margin-top: 3px;
+	   border: 1px solid;
+	   border-right: 0px;
+	   outline: 0px;
+	   border-radius: 3px 0px 0px 3px}
+
+i {height: 34px;
+   width: 40px;
+   border: 1px solid;
+   margin-top: 3px;
+   border-left: 0px;
+   padding-top: 4px;
+   padding-bottom: 1px}
+
+ #icon2 {border-right: 0px}
+
+.div2 {display: flex;
+		height: 50px}
+
+#input2 {height: 37px;
+	   width: 378px;
+	   margin-top: 3px;
+	   border: 1px solid;
+	   border-right: 0px;
+	   outline: 0px;
+	   border-radius: 3px 0px 0px 3px}
+
+#input3 {margin-top: 20px}
+
+#input4 {height: 50px;
+		 width: 463px;
+		 color: white;
+		 font-weight: solid;
+		 background-color: #000066;
+		 border-radius: 30px;
+		 outline: 0px;
+		 border: 0px}
+
+#whole-div {margin-top: 140px;
+			margin-left: 400px}
+
+#h5_1 {margin: 0px;
+	   font-weight: normal}
+
+#heading {margin: 0px;
+		  font-weight: normal;
+		  padding-top:2px}
+
+#icon3 {border-radius: 0px 3px 3px 0px}
+
+#icon1 {border-radius: 0px 3px 3px 0px}
+
+#h3-tag {padding-left: 120px}

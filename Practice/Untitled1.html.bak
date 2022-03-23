@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Login to Gmail</title>
+ </head>
+ <body>
+  
+  <label>First Name</label>
+  <input></input>
+
+  <label>Second Name</label>
+  <input></input>
+  <br></br>
+
+  <label>Username</label>
+  <input></input>
+
+  <br></br>
+
+   <label>Phone Number</label>
+  <input type="number"></input>
+
+  <br></br>
+
+  <label>DOB</label>
+  <input type="date"></input>
+
+  <br></br>
+
+  <label>Gender</label>
+  <input type="radio" name="gender">MALE</input>
+  <input type="radio" name="gender">FEMALE</input>
+
+
+
+  <br></br>
+
+  <label>Password</label>
+  <input type="password"></input>
+ 
+
+  <label>Confirm Password</label>
+  <input type="password"></input>
+  <br></br>
+
+  <input type="button" value="Sign In"></input>
+
+  <img src=https://www.google.com/search?q=images&sxsrf=ALeKk01ZxUzPOZ2XdVSd8fPWO6W22MfAPQ:1614339079568&tbm=isch&source=iu&ictx=1&fir=_2JirDBiGzi3lM%252CBa_eiczVaD9-zM%252C_&vet=1&usg=AI4_-kS-2quchvKql4DarOytELaSGAIFlQ&sa=X&ved=2ahUKEwjsmInbuYfvAhV6yzgGHd72DVAQ9QF6BAgKEAE#imgrc=_2JirDBiGzi3lM>
+ </body>
+</html>

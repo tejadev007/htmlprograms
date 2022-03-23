@@ -1,0 +1,56 @@
+.teja {color:red}
+
+#hello {color:red}
+
+#hello1 {color:red}
+
+#khan { height:550px;
+		width:325px;
+		background-color:yellow;
+		border-radius:30px;
+		border:0px}
+
+#roy {  width:100px;
+		background-color:black;
+		border-radius:3px}
+
+#haswak { width:325px;
+		  background-color:orange;
+		  border-radius:30px;
+		  border:0px}
+
+
+.abc {background-color:blue;
+		border:0px;
+		outline:0px;
+		color:white}
+
+.def {background-color:blue;
+		border-radius:10px;
+		height:20px;
+		width:70px;
+		opacity:0.60;
+		border:0px}
+
+.kuchipudi {height:600px;
+			width:623px;
+			float:left}
+
+.billa { height:40px;
+		   width:220px;
+		   background-color:white;
+		   border-radius:6px;
+		   box-shadow:10px 10px 20px grey;
+		   border:0px}
+
+ .bro { border:0px;
+        outline:0px;
+		text-align:center;}
+
+body { background-image:url('coding.jpg');
+	   background-size:1200px 1400px;
+	   background-repeat:2;}
+
+
+
+legend {color:green}

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>practice</title>
+  <link rel="icon" href="favicon.ico"></link>
+ </head>
+   <body>
+     <form>
+	 
+	 <div style="height:90px;
+				width:1400px;
+				background-color:orange;
+				float:left">
+		<fieldset style="height:70px;
+						 width:200px;
+						 background-color:red">
+		<h1>TEJA BOOK</h1>
+
+		</fieldset>
+		
+	 </div>
+	 <div style="height:825px;
+				width:400px;
+				background-color:grey;
+				float:right;
+				opacity:10;
+				float:left">
+		<h2>Sign Up</h2>
+
+		
+
+        
+		<fieldset style="height:28px;
+						width:150px">
+		<legend>Username</legend>
+		<input style="border:0px;outline:0px;background-color:grey" pattern="[A-Z]{1,20}"></input>
+		</fieldset>
+		
+		<br></br>
+
+		<fieldset style="height:28px;
+						width:150px">
+		<legend>Password</legend>
+		<input style="border:0px;outline:0px;background-color:grey" type="password"></input>
+		</fieldset>
+		
+		<br></br>
+
+		<fieldset style="height:28px;
+						width:150px">
+		<legend>Phone Number</legend>
+		<input style="border:0px;outline:0px;background-color:grey" pattern="[6-9]{1}[0-9]{9}" title="Without +91"></input>
+		</fieldset>
+		
+		<br></br>
+
+		<label>Day</label>
+		<select >
+		<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+		<option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+		<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+		<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+		<option>21</option><option>22</option><option>23</option><option>24</option><option>25</option>
+		<option>26</option><option>27</option><option>28</option><option>29</option><option>30</option>
+		<option>31</option>
+		</select>
+
+		<label>Month</label>
+		<select>
+		<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+		<option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+		<option>11</option><option>12</option>
+		</select>
+
+		<label>Year</label>
+		<select>
+		<option>1991</option><option>1992</option><option>1993</option><option>1994</option><option>1995</option>
+		<option>1996</option><option>1997</option><option>1998</option><option>1999</option><option>2000</option>
+		<option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option>
+		<option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option>
+		<option>2011</option><option>2022</option><option>2013</option><option>2014</option><option>2015</option>
+		<option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><option>2021</option>
+		</select>
+		
+		<br></br>
+		<br></br>
+		
+		<fieldset style="height:20px;width:60px;background-color:orange">
+		<input style="border:0px;outline:0px;background-color:orange" type="submit" value="Sign Up"></input>
+		</fieldset>
+		
+		
+		
+	 </div>
+
+	 <div style="height:825px;
+				width:840px;
+				background-image: url('coding.jpg');
+				background-size: 800px 800px;
+				float: left">
+				
+
+			
+		<h2 ><p style="color:white">       TeJaBook helps you connect and share with the people in your life.The founders of TeJaBook initially limited membership to Harvard students. Membership was expanded to Columbia, Stanford, and Yale before being expanded to the rest of the Ivy League, MIT, and higher education institutions in the Boston area, then various other universities, and lastly high school students. Since 2006, anyone who claims to be at least 13 years old has been allowed to become a registered user of Facebook, though this may vary depending on local laws. The name comes from the face book directories often given to American university students.<p><h2>
+
+		<h2><p style="color:white">TeJaBook can be accessed from devices with Internet connectivity, such as personal computers, tablets and smartphones. After registering, users can create a profile revealing information about themselves. They can post text, photos and multimedia which is shared with any other users that have agreed to be their "friend", or, with a different privacy setting, with any reader. Users can also use various embedded apps, join common-interest groups, buy and sell items or services on Marketplace, and receive notifications of their Facebook friends' activities and activities of TeJaBook pages they follow. TeJaBook claimed that it had 2.80 billion monthly active users as of December 2020,[2] and it was the most downloaded mobile app of the 2010s globally.[7]</p></h2>
+
+		<h2><p style="color:white">TeJaBook has been the subject of numerous controversies, often involving user privacy (as with the Cambridge Analytica data scandal), political manipulation (as with the 2016 U.S. elections), mass surveillance,[8] psychological effects such as addiction and low self-esteem, and content such as fake news, conspiracy theories, copyright infringement, and hate speech</p></h2>
+		
+	 </div>
+	  <div style="height:90px;
+				width:1400px;
+				background-color:orange;
+				float: left">
+	  </div>
+	 
+	 </form>
+
+   </body>
+</html>

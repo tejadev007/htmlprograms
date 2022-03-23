@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Travel Request</title>
+ </head>
+ <body>
+ <form>
+
+ <label>Employee Name</label>
+ <input type="required" pattern="[A-Z]{4,20}" title="Name should be between 4 to 20 Alphabets" placeholder="Enter your name"></input>
+
+ <br></br>
+
+ <label>Employee Location</label>
+ <textarea></textarea>
+
+ <br></br>
+
+ <label>Alternate Email ID</label>
+ <input placeholder="abc@gmail.com"></input>
+
+ <br></br>
+
+ <label>Mobile Number</label>
+ <input type="required" pattern="[6-9]{1}[0-9]{9}" title="Enter with +91 and only 10 digits are to be entered" placeholder="9XXXXXXX78" ></input>
+
+ <br></br>
+
+ <label>Location of Visit</label>
+ <input type="radio" name="radio">Coimbatore</input>
+ <input type="radio" name="radio">Pune</input>
+ <input type="radio" name="radio">Banglore</input>
+
+ <br></br>
+
+ <label>Date of Travel</label>
+ <input type="date"></input>
+ 
+ <br></br>
+
+ <label>Mode of Travel</label>
+ <input list="Qwerty"></input>
+
+ <datalist id="Qwerty">
+  <option>Bus</option>
+  <option>Train</option>
+  <option>Flight</option>
+  <option>Car</option>
+  <option>Bike</option>
+ </datalist>
+
+
+
+
+ <br></br>
+
+ <input type="submit" value="Submit Travel Request"></input>
+
+ <br></br>
+
+ <input type="reset" value="Clear"></input>
+ </form>
+ 
+
+ <br></br>
+ <br></br>
+
+
+  <form>
+
+<table>
+<tr>
+ <td><label>Employee Name</label></td>
+ <td><input type="required" pattern="[A-Z]{4,20}" title="Name should be between 4 to 20 Alphabets" placeholder="Enter your name"></input></td>
+</tr>
+ 
+<tr>
+ <td><label>Employee Location</label></td>
+ <td<textarea></textarea></td>
+</tr>
+ 
+<tr>
+ <td><label>Alternate Email ID</label></td>
+ <td><input placeholder="abc@gmail.com"></input></td>
+</tr>
+ 
+<tr>
+ <td><label>Mobile Number</label></td>
+ <td><input type="required" pattern="[6-9]{1}[0-9]{9}" title="Enter with +91 and only 10 digits are to be entered" placeholder="9XXXXXXX78" ></input></td>
+</tr>
+
+<tr>
+ <td><label>Location of Visit</label></td>
+ <td><input type="radio" name="radio">Coimbatore</input></td>
+ <td><input type="radio" name="radio">Pune</input></td>
+ <td><input type="radio" name="radio">Banglore</input></td>
+</tr>
+ 
+<tr>
+ <td><label>Date of Travel</label></td>
+ <td><input type="date"></input></td>
+</tr>
+ 
+<tr>
+ <td><label>Mode of Travel</label></td>
+ <td><input list="Qwerty"></input></td>
+
+
+ <datalist id="Qwerty">
+  <option>Bus</option>
+  <option>Train</option>
+  <option>Flight</option>
+  <option>Car</option>
+  <option>Bike</option>
+ </datalist>
+
+</tr>
+
+
+ 
+<tr>
+<td> <input type="submit" value="Submit Travel Request"></input></td>
+</tr>
+
+
+<tr>
+ <td><input type="reset" value="Clear"></input></td>
+ </tr>
+
+
+ </table>
+ </form>
+
+ </body>
+</html>

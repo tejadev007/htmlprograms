@@ -1,0 +1,229 @@
+#submit {text-align:center;
+		 margin-top:20px;
+		 height:30px;
+		 width:120px;
+		 background-color:cyan;
+		 border-radius:8px;
+		 box-shadow:0px 0px 10px brown;
+		 border:0px}
+
+#dropdown{width:300px;
+		  height:32px;
+		  margin-left:10px;
+		  padding-left:120px;
+		  box-shadow:5px 5px 10px grey}
+
+#heading {text-align:center;
+		  color:white}
+
+.div {height: 520px;
+	   width: 1270px;
+	   float: left;
+	   margin-top: 0px;
+	   margin-left: 0px}
+
+#div1 {height:400px;
+	  width:500px;
+	  float: left;
+	  margin-top:40px;
+      margin-left:660px}
+
+.input {margin-top:5px;
+		margin-bottom:15px;
+        margin-left:10px;
+		height:32px;
+		width:300px;
+		text-align:center;
+		box-shadow:5px 5px 10px grey;
+		border:0px}
+
+label {font-size:23px;
+	   font-weight:bold}
+
+body {height: 550px;
+	  width: 1270px;
+	  background-image:url(library1.jpg);
+	  background-size: 1280px 612px;
+	  background-repeat: no-repeat}
+
+
+
+
+
+#heading2 {text-align:center;
+		   color:white}
+
+#div2 {width:600px;
+       height:400px;
+	   float: left;
+	   margin-top: 40px;
+	   margin-left:660px}
+
+#fieldset {height:46px;
+		   width:500px}
+
+#input2 {height:30px;
+		 width:500px;
+		 border:0px;
+		 outline:0px;
+		 text-align:center;
+		 padding-right:30px;
+		 padding-left:30px;
+		 box-shadow:0px 0px 5px green;
+		 background:transparent}
+
+#legend {font-size:20px;
+		 font-weight:bold;
+		 color:crimson}
+
+#submit2 {text-align:center;
+		 margin-top:20px;
+		 height:30px;
+		 width:120px;
+		 background-color:cyan;
+		 border-radius:8px;
+		 box-shadow:0px 0px 10px brown;
+		 border:0px}
+
+
+
+
+
+
+#heading3 {text-align:center;
+		   color:white}
+
+#div3 {margin-top:100px;
+	   margin-left:660px;
+	   float: left;
+	   height:400px;
+	   width:600px}
+
+ul {font-size:20px;
+	font-weight:bold;
+	color:red;
+	margin-left:20px}
+
+i {margin-right:30px;
+   padding-top:10px;
+   color:black}
+
+
+#input3 {margin-top:10px;
+         margin-left:100px;
+		 box-shadow:0px 0px 10px grey;
+		 height:30px;
+		 width:200px;
+		 border:0px}
+
+#submit3 {text-align:center;
+		 margin-top:5px;
+		 margin-left:10px;
+		 height:30px;
+		 width:70px;
+		 border-radius:8px;
+		 background-color:cyan;
+		 box-shadow:0px 0px 10px brown;
+		 border:0px}
+
+
+
+#heading4 {text-align:center;
+		   color:white}
+
+#div4 {margin-top:100px;
+	   margin-left:660px;
+	   float: left;
+	   height:40px;
+	   width:600px}
+
+.input4 {margin-top:5px;
+		margin-bottom:15px;
+        margin-left:10px;
+		height:32px;
+		width:300px;
+		text-align:center;
+		box-shadow:5px 5px 10px grey;
+		border:0px}
+
+#submit4 {text-align:center;
+		 margin-top:10px;
+		 height:30px;
+		 width:120px;
+		 background-color:cyan;
+		 border-radius:8px;
+		 box-shadow:0px 0px 10px brown;
+		 border:0px}
+
+
+
+
+#heading5 {text-align:center;
+		   color:white}
+
+#div5 {margin-top:100px;
+	   margin-left:660px;
+	   float: left;
+	   height:40px;
+	   width:600px}
+
+#input5 {margin-top:5px;
+		margin-bottom:15px;
+        margin-left:10px;
+		height:32px;
+		width:300px;
+		text-align:center;
+		box-shadow:5px 5px 10px grey;
+		border:0px}
+
+#submit5 {text-align:center;
+		 margin-top:10px;
+		 height:30px;
+		 width:120px;
+		 background-color:cyan;
+		 border-radius:8px;
+		 box-shadow:0px 0px 10px brown;
+		 border:0px}
+
+#libNav {height: 80px;
+		 width: 1140px;
+		 float: left;
+		 background-image: url("background-div-image.jpg");
+		 border-radius: 10px;
+		 margin-left: 58px}
+
+#mainMenu {list-style: none;
+		   display: flex;
+		   color: black;
+		   margin-top: 0px;
+		   margin-bottom: 0px;
+		   margin-left: 0px;
+		   padding-left: 0px;
+		   padding-right: 0px;
+		   margin-right: 0px}
+
+#mainMenu #icon {color: white;
+			     padding-right: 20px;
+			     padding-left: 20px;
+			     padding-top: 5px;
+			     padding-bottom: 5px}
+
+#mainMenu .li-tag {color: white;
+			       padding-right: 70px;
+			       padding-left: 70px;
+			       padding-top: 30px;
+			       padding-bottom: 5px}
+
+#mainMenu .li-tag:hover {background-color: #00be84  ;
+					color: white;
+					box-shadow: 0px 0px 20px DarkSlateBlue ;
+					border-radius: 10px}
+
+#mainMenu #icon i:hover {color: skyblue}
+
+#libNav #mainMenu li a {color: white;
+						text-decoration: none}
+
+#libNav #mainMenu li a i {padding-left: 30px;
+						  color: white;
+						  text-decoration: none}

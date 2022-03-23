@@ -1,0 +1,105 @@
+#navBar {background-color: black;
+		 height: 100px;
+		 width: 100%;
+		 display: flex}
+
+#mainMenu {display: flex;
+		   margin-top: 0px;
+		   margin-bottom: 0px;
+		   padding-left: 0px}
+
+#mainMenu #home:hover {background-color: green}
+
+#mainMenu #support:hover {background-color: lightblue}
+
+#mainMenu #careers:hover {background-color: orange}
+
+#mainMenu #contact:hover {background-color: lightgreen}
+
+
+
+#home {color: white;
+	   padding-top: 33px;
+	   padding-left: 51.25px;
+	   padding-right: 51.25px;
+	   list-style: none;
+	   font-size: 30px}
+
+#support {color: white;
+		  padding-top: 33px;
+	      padding-left: 51.25px;
+		  padding-right: 51.25px;
+	      list-style: none;
+		  font-size: 30px
+		  }
+
+#careers {color: white;
+		  padding-top: 33px;
+	      padding-left: 51.25px;
+		  padding-right: 51.25px;
+	      list-style: none;
+		  font-size: 30px}
+
+#contact {color: white;
+		  padding-top: 33px;
+	      padding-left: 51.25px;
+		  padding-right: 51.25px;
+	      list-style: none;
+		  font-size: 30px}
+
+#searchBox {height: 30px;
+			width: 200px;
+			border: 2px solid;
+			margin-top: 32px;
+			border-right: 0px;
+			outline: 0px;
+			padding-left: 10px
+			}
+
+#searchIcon {background-color: white;
+			 border: 2px solid;
+			 margin-top: 32px;
+			 margin-bottom: 32px;
+			 padding-top: 7px;
+			 padding-left: 0px;
+			 padding-right: 7px;
+			 border-left: 0px}
+
+#join {display: flex;
+	   padding-left: 40px}
+
+#signIn {color: white;
+		 padding-top: 34px;
+		 padding-left: 30px;
+		 }
+
+#signUp {color: white;
+		 padding-top: 32px;
+		 margin-left: 0px;
+		}
+
+#subMenu {color: white;
+		  list-style: none;
+		  background-color: black;
+		  padding-left: 0px;
+		  margin-top: 32px;
+		  display: none}
+
+#mainMenu li:hover #subMenu {display: block}
+
+#mainMenu li #subMenu li {text-align: center;padding-left: 10px;
+						  padding-right: 12px}
+
+#mainMenu li #subMenu {position: absolute;
+					   left: 575px}
+
+#mainMenu li #subMenu li:hover {background-color: green}
+
+#subMenu li {padding-top: 10px;
+			 padding-right: 0px;
+			 padding-bottom: 10px;
+			 padding-right: 0px}
+
+#contact-div {width: 250px}
+
+#signup-signin {margin-left:80px}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Train Booking</title>
+ </head>
+ <body>
+ <table>
+ <tr>
+	<td><label>From</label></td>
+	<td><input pattern="[A-Z]{4,20}"></input></td>
+ </tr>
+ <tr>
+	<td><label>To</label></td>
+	<td><input pattern="[A-Z]{4,20}"></input></td>
+ </tr>
+ <tr>
+	<td><label>Date</label></td>
+	<td><input type="date"></input></td>
+ </tr>
+ <tr>
+	<td><label>Gender</label></td>
+	<td><select>
+	<option>Male</option>
+	<option>Female</option>
+	<option>Other</option>
+	<option>Not to say</option>
+	</select></td>
+	
+ </tr>
+ <tr>
+	 <td><label>Train Type</label></td>
+	<td><select>
+	<option>AC</option>
+	<option>Non-AC</option>
+	<option>2 tier Ac</option>
+	<option>3 tier Ac</option>
+	</select></td>
+ </tr>
+ </table>
+  
+ </body>
+</html>

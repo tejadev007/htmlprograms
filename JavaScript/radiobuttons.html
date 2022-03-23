@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<script src="radiobuttons.js"></script>
+		<title>Document</title>
+ </head>
+ <body>
+	<label>Enter number 1 :</label>
+		<input id="input1"></input>
+			<br></br>
+				<label>Enter number 2 :</label>
+					<input id="input2"></input>
+						<br></br>
+							<label>Select the Operation <sup style="color:red">*</sup> :</label>
+							<input id="radio1" type="radio" name="radio">+</input>
+							
+							<input id="radio2" type="radio" name="radio">-</input>
+							
+							<input id="radio3" type="radio" name="radio">*</input>
+							
+							<input id="radio4" type="radio" name="radio">/</input>
+
+							<em id="err" style="color: red;padding-left: 20px"></em>
+							<br></br>
+								<input type="submit" value="Calculate" onclick="workingWithRadioButtons()"></input>
+								<br></br>
+									<strong>Result :</strong>
+										<mark id="result"></mark>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>htmllists</title>
+ </head>
+ <body>
+  
+
+  <div style="height:100px;width:200px;float:left">
+  <ol>
+		<li>hieee</li>
+		<li>Ela unnav</li>
+		<li>Bagunnava</li>
+  </ol>
+  
+  </div>
+
+  <div style="height:100px;width:200px;float:left">
+  <ul>
+		<li>hieee</li>
+		<li>Ela unnav</li>
+		<li>Bagunnava</li>
+  </ul>
+  
+  </div>
+
+  <div style="height:100px;width:200px;float:left">
+  <ul style="list-style-image:url(bullets.ico)">
+		<li>hieee</li>
+		<li>Ela unnav</li>
+		<li>Bagunnava</li>
+  </ul>
+  
+  </div>
+
+
+
+
+
+
+
+
+
+
+ </body>
+</html>

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Mobile Recharge</title>
+ </head>
+ <body>
+ <table>
+ <tr>
+	<td><label>Phone Number</label></td>
+	<td> <input type="number"></input></td>
+ </tr>
+ 
+ <tr>
+	<td><label>Operator<label></td>
+	<td><input list="teja"></input></td>
+	<datalist id="teja">
+	<option>Airtel</option>
+	<option>Jio</option>
+	<option>Vi</option>
+	<option>telenor</option>
+	</datalist>
+ </tr>
+ 
+ <tr>
+	<td><label>Select plan</label></td>
+	<td><input list="kuchipudi"></input></td>
+	<datalist id="kuchipudi">
+	<option>499</option>
+	<option>599</option>
+	<option>699</option>
+	</datalist>
+ </tr>
+ 
+ <tr>
+	<td></td>
+	<td><input type="button" value="Recharge"></input></td>
+ </tr>
+ </table>
+  
+ 
+ </body>
+</html>
